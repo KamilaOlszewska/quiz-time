@@ -1,0 +1,2 @@
+# quiz-time
+Projekt koncowy
